@@ -1,0 +1,17 @@
+.nav {
+  background-color: #dbeafe;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding-left: 20px;
+}
+.nav-image {
+  width: 80px;
+  margin-right: 20px;
+}
+.nav-title {
+  color: #0f172a;
+  font-family: 'Bree Serif';
+  font-size: 30px;
+  font-weight: 400;
+}
